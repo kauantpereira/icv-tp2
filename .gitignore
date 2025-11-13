@@ -1,0 +1,25 @@
+# Arquivos do Python
+__pycache__/
+
+# Ambientes virtuais
+venv/
+.env/
+.venv/
+
+# Cache do Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Config local do JupyterLab
+.jupyter/
+.jupyterlab/
+
+# Dados gerados
+bins/
+reconstructed/
+
+
+# VSCode
+.vscode/
+.code-workspace
+.DS_Store
